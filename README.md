@@ -1,29 +1,8 @@
-# Advent of Code Swift Starter Project
+# Advent of Code Swift 2023
 
 [![Language](https://img.shields.io/badge/language-Swift-red.svg)](https://swift.org)
 
-Daily programming puzzles at [Advent of Code](<https://adventofcode.com/>), by
-[Eric Wastl](<http://was.tl/>). This is a small example starter project for
-building Advent of Code solutions.
-
-## Usage
-
-Swift comes with Xcode, or you can [install it](https://www.swift.org/install/)
-on a supported macOS, Linux, or Windows platform. 
-
-If you're using Xcode, you can open this project by choosing File / Open and
-select the parent directory. 
-
-If you prefer the command line, you can run the test suite with `swift test`,
-and run the output with `swift run`.
-
-If you're using Visual Studio Code to edit, you might find these Swift
-extensions useful:
-
-- [Swift](https://marketplace.visualstudio.com/items?itemName=sswg.swift-lang)
-  (provides core language edit / debug / test features)
-- [apple-swift-format](https://marketplace.visualstudio.com/items?itemName=vknabel.vscode-apple-swift-format)
-  (supports the [swift-format](https://github.com/apple/swift-format) package)
+This repo is based on the Apple AOC [example repo](https://github.com/apple/swift-aoc-starter-example)
 
 ## Challenges
 
